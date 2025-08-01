@@ -6,7 +6,7 @@ This project is a smart health monitoring system that uses the ESP32 microcontro
 ![system](https://github.com/lailahamada/ESP32-Health-Monitoring-System/blob/6b552052e50bdce049647d82447aba996520646c/Img%20and%20ved/health_monitor_image.jpg))
 
 ## 📹 Video
-A full demonstration video is available in the `media` folder.
+A full demonstration video is available in the `Img and ved` folder.
 
 ## 🧰 Hardware Components
 - **ESP32 Microcontroller** – core processing unit
