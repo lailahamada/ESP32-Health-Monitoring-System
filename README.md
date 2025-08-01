@@ -3,7 +3,7 @@
 This project is a smart health monitoring system that uses the ESP32 microcontroller to measure and transmit vital health signs such as body temperature and ECG (heart rate) to a mobile dashboard using the Blynk IoT platform.
 
 ## 📷 Demo
-(Img and ved/health_monitor_image.jpg)
+![system](https://github.com/lailahamada/ESP32-Health-Monitoring-System/blob/6b552052e50bdce049647d82447aba996520646c/Img%20and%20ved/health_monitor_image.jpg))
 
 ## 📹 Video
 A full demonstration video is available in the `media` folder.
